@@ -42,3 +42,13 @@ Para descrever o que foi feito e deixar uma mensagem para o futuro, para lembrar
 ```bash
 git commit -m "mensagem"
 ```
+
+Git push envia os commits do pc para o github
+```bash
+git push
+```
+
+PULL baixa todas as atualizações que o repositório tem no github e não está no seu pc.
+```bash
+git pull
+```
